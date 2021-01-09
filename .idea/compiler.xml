@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CRUD-app-sh" />
+        <module name="spring-mvc-notboot" />
       </profile>
     </annotationProcessing>
   </component>
